@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Xingjing Deng 👋</h1>
 
-<!--
-**MicroMilo/MicroMilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build local-first tools for AI agents, browser workflows, and safer developer tooling.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/MicroMilo/upstream-radar">Upstream Radar</a> ·
+  <a href="https://github.com/MicroMilo/clean-your-data">Clean Your Data</a> ·
+  <a href="https://github.com/MicroMilo/webmeld">WebMeld</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+- **[Upstream Radar](https://github.com/MicroMilo/upstream-radar)** — monitors DeepSeek Harness plugins for dependency, vulnerability, and compatibility changes.
+- **[Clean Your Data](https://github.com/MicroMilo/clean-your-data)** — explains disk usage with bounded evidence and makes cleanup reversible.
+- **[WebMeld](https://github.com/MicroMilo/webmeld)** — restyles webpages with natural language through verified CSS previews, undo, and persistence.
+
+## Current focus
+
+- Agent tooling around the DeepSeek Harness ecosystem
+- Evidence-first and reversible automation
+- Small, auditable tools that keep people in control
+
+## Toolbox
+
+`Python` · `TypeScript` · `JavaScript` · `Node.js` · `Chromium Extensions` · `AI Agents`
+
+> I like turning messy workflows into tools that are easy to inspect, test, and undo.
