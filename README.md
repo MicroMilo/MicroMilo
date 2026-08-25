@@ -11,12 +11,6 @@
   <a href="https://github.com/MicroMilo?tab=repositories">Open-source projects</a>
 </p>
 
-<p align="center">
-  <a href="https://micromilo.github.io/awesome-claude-code-codex-papers/">
-    <img src="https://raw.githubusercontent.com/MicroMilo/awesome-claude-code-codex-papers/main/assets/hero.png" alt="Claude Code and Codex research mapped through an evidence graph" width="100%">
-  </a>
-</p>
-
 ## Featured research
 
 ### [Claude Code & Codex Papers](https://github.com/MicroMilo/awesome-claude-code-codex-papers)
